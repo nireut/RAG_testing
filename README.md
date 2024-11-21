@@ -1,3 +1,3 @@
-# Takeoff - RAG Course
+# RAG_testing
 
-Course Link: https://www.jointakeoff.com/courses/rag
+learning how to build a RAG system
